@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Fleurs048
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Fleurs048/Fleurs048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Fleurs048 (Fleurs), and im 19yo. I'm french and tunisian.
+- 👀 I’m interested in airplanes, trains, football and tech (mostly interested in code)
+- 🌱 I’m currently learning C, C++, Java, JavaScript and C#
+- 📫 How to reach me :
+-   My Twitter : @fleurs048
